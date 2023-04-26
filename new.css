@@ -1,0 +1,136 @@
+
+*{
+	
+	margin:0;
+	padding:0;
+}
+
+body{
+	
+	background-color:#eee;
+}
+
+.profile-image{
+	height:150px;
+	width:150px;
+	border:2px solid grey;
+	border-radius:50px;
+	float:left;
+}
+.container{
+	background-color:aqua;
+	max-width:1000px;
+	margin:0px auto;
+	padding:30px;
+}
+
+.header-bio{
+	float:left;
+	padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+	
+	color:#11999e;
+}
+
+.header-contact{
+		float:right;
+		padding:50px;
+		
+	
+}
+
+.header-contact a{
+	
+	text-decoration:none;
+	color:#teal;
+	font-weight:bolder;
+}
+.header-contact a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
+.div-clear{
+	clear:both;
+}
+hr{
+	border:3px solid black;
+	width:100%;
+	margin:20px auto;
+	border-bottom:none;
+	
+	
+}
+
+.content{
+	
+	margin-bottom:30px;
+}
+.left-div{
+	width:30%;
+	float:left;
+}
+.right-div{
+	width:70%;
+	float:right;
+}
+.common-hr{
+	
+	border:1px solid black;
+	border-bottom:none;
+	margin:20px auto;
+	width:100%;
+	margin-bottom:20px;
+	
+	
+}
+.education-template-left{
+		float:left;
+		width:45%;
+		margin-right:5%;
+		
+		
+		
+		
+	
+}
+.education-template-left a{
+	
+	text-decoration:none;
+	font-weight:bolder;
+}
+.education-template-left a:hover{
+	
+	text-decoration:underline;
+	color:tomato;
+}
+
+.education-template-right{
+	float:right;
+	width:50%;
+}
+
+.education-template-right a{
+	text-decoration:none;
+	font-weight:bolder;
+}
+.education-template-right a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
+.bottom-container{
+	background-color:gray;
+	text-align:center;
+	padding:15px;
+}
+.bottom-container a{
+	text-decoration:none;
+	font-weight:bolder;
+	color:white;
+	
+	margin:5px;
+}
+.bottom-container a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
